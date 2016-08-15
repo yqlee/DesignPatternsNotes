@@ -2,7 +2,9 @@
 1. 简述：  
    这是一个设计模式的学习笔记！当代码写到一定量的时候，我们不禁会思考如何才能把代码写得扩展性更强，更为优雅，而不仅仅是功能实现，那么设计模式就至关重要！
 
-2. 设计模式分类  
+2. 面向对象的六大原则：  
+   六大原则：  [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.md "面向对象的六大原则")
+3. 设计模式分类
    创建型模式，共五种：  
    1、单例模式  
    2、构建者(Builder)模式  
@@ -31,5 +33,4 @@
    23、桥接模式  
 3. 参考  
   1、<安卓源码设计模式解析与实战>  
-  2、<设计模式之禅>  
-  3、<Design Patterns: Elements of Reusable Object-Oriented Software>
+  2、<设计模式之禅>

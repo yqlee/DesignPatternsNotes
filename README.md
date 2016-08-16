@@ -4,7 +4,7 @@
 
 2. 面向对象的六大原则：  
    六大原则：  [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.md "面向对象的六大原则")
-3. 设计模式分类
+3. 设计模式分类  
    创建型模式，共五种：  
    1、单例模式：  
 		[https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/1、单例模式.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/1、单例模式.md "单例模式")  

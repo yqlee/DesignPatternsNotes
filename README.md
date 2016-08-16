@@ -6,14 +6,14 @@
    六大原则：  [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.md "面向对象的六大原则")
 3. 设计模式分类
    创建型模式，共五种：  
-   1、单例模式:  
+   1、单例模式：  
 		[https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/1、单例模式.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/1、单例模式.md "单例模式")  
-   2、构建者(Builder)模式  
+   2、构建者(Builder)模式：  
 	[https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2%E3%80%81Builder%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2%E3%80%81Builder%E6%A8%A1%E5%BC%8F.md "Builder模式")  
-   3、原型模式  
+   3、原型模式：  
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/3%E3%80%81%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/3%E3%80%81%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md "原型模式")  
-   4、工厂方法模型  
-   [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/4%E3%80%81%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/4%E3%80%81%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md) 
+   4、工厂方法模型：  
+   [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/4%E3%80%81%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/4%E3%80%81%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)  
    5、抽象工厂模式  
    行为型模式：共十一种：  
    6、策略模式  

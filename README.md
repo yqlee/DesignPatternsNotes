@@ -22,13 +22,14 @@
    行为型模式：共十一种：  
    6、策略模式：  
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/6%E3%80%81%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/6%E3%80%81%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)  
-   7、状态模式:  
+   7、状态模式：  
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/7、状态模式.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/7、状态模式.md)   
    8、责任链模式：  
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/8、责任链模式.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/8、责任链模式.md)  
    9、解释器模式  
    10、命令模式  
-   11、观察者模式  
+   11、观察者模式：  
+   [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/11%E3%80%81%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/11%E3%80%81%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)  
    12、备忘录模式  
    13、迭代器模式  
    14、模板方法模式  

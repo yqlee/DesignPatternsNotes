@@ -32,9 +32,10 @@
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/11%E3%80%81%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/11%E3%80%81%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)  
    12、备忘录模式:  
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/12、备忘录模式.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/12、备忘录模式.md)  
-   13、迭代器模式  
+   13、迭代器模式：  
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/13%E3%80%81%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/13%E3%80%81%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)  
-   14、模板方法模式  
+   14、模板方法模式：  
+   [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/14%E3%80%81%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/14%E3%80%81%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)  
    15、访问者模式  
    16、中介者模式  
    结构型模式：共七种：  

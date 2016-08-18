@@ -30,7 +30,8 @@
    10、命令模式  
    11、观察者模式：  
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/11%E3%80%81%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/11%E3%80%81%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)  
-   12、备忘录模式  
+   12、备忘录模式:  
+   [https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/12、备忘录模式.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/12、备忘录模式.md)  
    13、迭代器模式  
    14、模板方法模式  
    15、访问者模式  

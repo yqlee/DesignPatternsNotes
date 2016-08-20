@@ -41,7 +41,8 @@
    16、中介者模式：  
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/16%E3%80%81%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/16%E3%80%81%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)  
    结构型模式：共七种：  
-   17、代理模式  
+   17、代理模式： 
+   [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/17%E3%80%81%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/17%E3%80%81%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)   
    18、组合模式  
    19、适配器模式  
    20、装饰模式  

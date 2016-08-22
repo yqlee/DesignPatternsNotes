@@ -51,9 +51,9 @@
    [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/20%E3%80%81%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/20%E3%80%81%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F.md)    
    21、享元模式  
    22、外观模式：  
-   [https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/23、外观模式.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/23、外观模式.md)  
+   [https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/22、外观模式.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/设计模式/22、外观模式.md)  
    23、桥接模式：  
-   [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/22%E3%80%81%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/22%E3%80%81%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md)    
+   [https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/23%E3%80%81%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md](https://github.com/yqlee/DesignPatternsNotes/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/23%E3%80%81%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md)
 3. 参考  
   1、<安卓源码设计模式解析与实战>  
   2、<设计模式之禅>
